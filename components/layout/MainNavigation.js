@@ -9,7 +9,7 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link href='/new-meetup'>Completed Tasks</Link>
+            <Link href='/completed'>Completed Tasks</Link>
           </li>
         </ul>
       </nav>
